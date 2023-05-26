@@ -1,2 +1,3 @@
-# js-wabbo-dex
-A simple pokedex project to put in practice some stuff.
+# dexsprites
+A simple pokedex idea that generates a random pokemon for fun!
+https://dexsprites.000webhostapp.com 
